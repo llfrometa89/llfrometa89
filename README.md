@@ -14,6 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=llfrometa89&style=flat-square&color=blue" alt=""/>
 
+</div>
 
 ## 💻 Open Source
 
@@ -26,8 +27,6 @@ Hammock is yet another HTTP client for Scala. It tries to be typeful, purely fun
 
 ## 🎤 Talks
 - 📺 Comming soon...
-
-</div>
 
 <!--
 **llfrometa89/llfrometa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
