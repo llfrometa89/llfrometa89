@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="150"/>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/llfrometa/">
+  <a href="https://www.linkedin.com/in/llfrometa">
     <img src="https://img.shields.io/static/v1?label=linkedin&message=20.4k&color=blue&logoColor=white&logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://llfrometa89.github.io/">
@@ -17,22 +17,38 @@
 </div>
 
 ## 🧑‍💻 About me
-I'm a Software Engineer with 10+ years of experience in architecture design and development with strong problem-solving skills. I'm functional programming enthusiast and advocate of creating simple and maintainable code. I have strong self-organization and time-management skills. 
-I'm interested in building powerful, reactive, concurrent, and distributed applications. I have extensive knowledge of different programming languages, architectural patterns and the principal development frameworks.
-However, there is always room for improvement so I'm constantly looking to explore new ideas, learn from my peers, have new experiences and engage with new challenges.
+🔭 I'm a Software Engineer with 10+ years of experience in architecture design and development with strong problem-solving skills. I'm functional programming enthusiast, creating simple and maintainable code. I have strong self-organization and time-management skills. 
+
+⚡ I'm interested in building powerful, reactive, concurrent, and distributed applications. I have extensive knowledge of different programming languages, architectural patterns and the principal development frameworks.
+
+✨ However, there is always room for improvement so I'm constantly looking to explore new ideas, learn from my peers, have new experiences and engage with new challenges.
 
 _"Programming is science, art, and engineering."_
-<div id="reach-me" style="margin-buttom:5px">
-<span>📫 How to reach me:</span>
- <a style="margin-top:15px" href="https://www.linkedin.com/in/llfrometa/">
-    <img src="https://img.shields.io/badge/Livan%20Frometa-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
-  </a>
 
-</div>
+📃 Take a look of my [CV](https://drive.google.com/file/d/1bnYeZ_wR9oDt7h7H50Jwk6M7fxyOsiNr/view?usp=sharing)
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/llfrometa)
+
+
+<!--
+**llfrometa89/llfrometa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 ## 📝 Posts
 - 📄 [How to start learning Scala?](https://medium.com/packlinktech/how-to-start-learning-scala-7ed48eca8fe0)
-- A glance at the concepts of types in Scala
+- 📄 A glance at the concepts of types in Scala
 
 ## 💻 Open source contributions
 
@@ -79,18 +95,3 @@ The book is a fun read. Eric has lots of interesting stories, and he has a way w
 
 ## 🎤 Talks
 - 📺 Comming soon...
-
-<!--
-**llfrometa89/llfrometa89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
