@@ -3,7 +3,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/llfrometa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/static/v1?label=linkedin&message=20.4k&color=blue&logoColor=white&logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://llfrometa89.github.io/">
     <img src="https://img.shields.io/badge/-Personal%20page-red?style=for-the-badge&logo=scala&logoColor=white" alt="Youtube Badge"/>
@@ -13,6 +13,14 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=llfrometa89&style=flat-square&color=blue" alt=""/>
+
+<!-- https://img.shields.io/badge/-Personal%20page-red?style=for-the-badge&logo=scala&logoColor=white
+
+https://img.shields.io/static/v1?label=linkedin&message=20.4k&color=blue&logoColor=white&logo=linkedin&style=for-the-badge
+
+https://img.shields.io/static/v1?label=linkedin&message=20.4k&color=blue&logoColor=white&logo=linkedin&style=for-the-badge -->
+
+
 
 </div>
 
