@@ -14,13 +14,18 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=llfrometa89&style=flat-square&color=blue" alt=""/>
 
-<!-- https://img.shields.io/badge/-Personal%20page-red?style=for-the-badge&logo=scala&logoColor=white
 
-https://img.shields.io/static/v1?label=linkedin&message=20.4k&color=blue&logoColor=white&logo=linkedin&style=for-the-badge
+## 💻 Open Source
 
-https://img.shields.io/static/v1?label=linkedin&message=20.4k&color=blue&logoColor=white&logo=linkedin&style=for-the-badge -->
+### Hammock 🏗
+[![Ansistrano Stars](https://img.shields.io/github/stars/pepegar/hammock?label=github%20stars&logo=github&style=for-the-badge)](https://github.com/pepegar/hammock)
 
+Hammock is yet another HTTP client for Scala. It tries to be typeful, purely functional, and work along other technologies that you're already using such as akka-http, circe, or cats.
 
+[Website](https://hammock.pepegar.com/) · [GitHub Repository](https://github.com/pepegar/hammock)
+
+## 🎤 Talks
+- 📺 Comming soon...
 
 </div>
 
