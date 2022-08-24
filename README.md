@@ -16,11 +16,25 @@
 
 </div>
 
+## 🧑‍💻 About me
+I'm a Software Engineer with 10+ years of experience in architecture design and development with strong problem-solving skills. I'm functional programming enthusiast and advocate of creating simple and maintainable code. I have strong self-organization and time-management skills. 
+I'm interested in building powerful, reactive, concurrent, and distributed applications. I have extensive knowledge of different programming languages, architectural patterns and the principal development frameworks.
+However, there is always room for improvement so I'm constantly looking to explore new ideas, learn from my peers, have new experiences and engage with new challenges.
+
+_"Programming is science, art, and engineering."_
+<div id="reach-me" style="margin-buttom:5px">
+<span>📫 How to reach me:</span>
+ <a style="margin-top:15px" href="https://www.linkedin.com/in/llfrometa/">
+    <img src="https://img.shields.io/badge/Livan%20Frometa-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+</div>
+
 ## 📝 Posts
-- [How to start learning Scala?](https://medium.com/packlinktech/how-to-start-learning-scala-7ed48eca8fe0)
+- 📄 [How to start learning Scala?](https://medium.com/packlinktech/how-to-start-learning-scala-7ed48eca8fe0)
 - A glance at the concepts of types in Scala
 
-## 💻 Open Source
+## 💻 Open source contributions
 
 ### Hammock 🏗
 [![Hammock Stars](https://img.shields.io/github/stars/pepegar/hammock?label=github%20stars&logo=github&style=for-the-badge)](https://github.com/pepegar/hammock)
@@ -31,7 +45,7 @@ Hammock is yet another HTTP client for Scala. It tries to be typeful, purely fun
 [Website](https://hammock.pepegar.com/) · [GitHub Repository](https://github.com/pepegar/hammock)
 
 
-## 📖 Recommended Books
+## 📖 Recommended books
 
 ### Practical FP in Scala 📙 by [Gabrieλ Voλpe](https://twitter.com/volpegabriel87)
 
