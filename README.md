@@ -60,38 +60,5 @@ Hammock is yet another HTTP client for Scala. It tries to be typeful, purely fun
 
 [Website](https://hammock.pepegar.com/) · [GitHub Repository](https://github.com/pepegar/hammock)
 
-
-## 📖 Recommended books
-
-### Practical FP in Scala 📙 by [Gabrieλ Voλpe](https://twitter.com/volpegabriel87)
-
-A practical book aimed for those familiar with functional programming in Scala who are yet not confident about architecting an application from scratch.
-
-[Website](https://leanpub.com/pfp-scala)
-
-### Functional Event-Driven Architecture 📙 by [Gabrieλ Voλpe](https://twitter.com/volpegabriel87)
-
-Explore the event-driven architecture (EDA) in a purely functional way. Learn to design and develop distributed systems that scale. Identify common design patterns in such systems.
-
-[Website](https://leanpub.com/feda)
-
-### Book of Monads 📙 by [Alejandro Serrano Mena](https://twitter.com/trupill)
-
-This book provides a journey from the very first concepts, to the myriad of monads available to programmers, down to the categorical foundations.
-
-[Website](https://leanpub.com/book-of-monads)
-
-### Get Your Hands Dirty on Clean Architecture 📘 by [Tom Hombergs](https://twitter.com/TomHombergs)
-
-This book discusses how the Hexagonal Architecture style tries to fulfill this goal and translates the concepts into actual code to provide inspiration for software developers.
-
-[Website](https://leanpub.com/get-your-hands-dirty-on-clean-architecture/c/LeanpubWeeklySale2022Aug17)
-
-### Domain-Driven Design: Tackling Complexity in the Heart of Software 📘 by **Eric Evans**
-
-The book is a fun read. Eric has lots of interesting stories, and he has a way with words. I see this book as essential reading for software developers — it's a classic.
-
-[Website](https://www.oreilly.com/library/view/domain-driven-design-tackling/0321125215)
-
 ## 🎤 Talks
 - 📺 Comming soon...
