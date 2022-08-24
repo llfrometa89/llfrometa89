@@ -20,6 +20,7 @@
 
 ### Hammock 🏗
 [![Ansistrano Stars](https://img.shields.io/github/stars/pepegar/hammock?label=github%20stars&logo=github&style=for-the-badge)](https://github.com/pepegar/hammock)
+[![Ansistrano Stars](https://img.shields.io/github/forks/pepegar/hammock?label=github%20stars&logo=github&style=for-the-badge)](https://github.com/pepegar/hammock)
 
 Hammock is yet another HTTP client for Scala. It tries to be typeful, purely functional, and work along other technologies that you're already using such as akka-http, circe, or cats.
 
