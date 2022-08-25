@@ -6,10 +6,13 @@
     <img src="https://img.shields.io/static/v1?label=linkedin&message=20.4k&color=blue&logoColor=white&logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://llfrometa89.github.io/">
-    <img src="https://img.shields.io/badge/-Personal%20page-red?style=for-the-badge&logo=scala&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/-Personal%20blog-red?style=for-the-badge&logo=scala&logoColor=white" alt="Personal Blog"/>
   </a>
   <a href="https://twitter.com/LivanFrometa">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://medium.com/@llfrometa">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=llfrometa89&style=flat-square&color=blue" alt=""/>
@@ -46,7 +49,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 📝 Posts
+## 📝 Blog Posts
 - 📄 [How to start learning Scala?](https://medium.com/packlinktech/how-to-start-learning-scala-7ed48eca8fe0)
 - 📄 A glance at the concepts of types in Scala
 
