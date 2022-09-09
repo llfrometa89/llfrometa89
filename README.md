@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 📝 Blog Posts
 - 📄 [How to start learning Scala?](https://medium.com/packlinktech/how-to-start-learning-scala-7ed48eca8fe0)
-- 📄 A glance at the concepts of types in Scala
+- 📄 [A glance at the concepts of types in Scala](https://medium.com/@llfrometa/a-glance-at-the-concepts-of-types-in-scala-71488e448964) in [es-ES](https://medium.com/@llfrometa/un-vistazo-a-los-conceptos-de-tipos-en-scala-4ffae4911aef)
 
 ## 💻 Open source contributions
 
