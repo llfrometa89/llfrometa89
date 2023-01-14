@@ -28,7 +28,7 @@
 
 _"Programming is science, art, and engineering."_
 
-📃 Take a look of my [CV](https://drive.google.com/file/d/1bnYeZ_wR9oDt7h7H50Jwk6M7fxyOsiNr/view?usp=sharing)
+📃 Take a look of my [CV](https://drive.google.com/file/d/1zasCK3rRzGVPBkoy_n7D2kOUYAHwdqvh/view?usp=share_link)
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/llfrometa)
 
